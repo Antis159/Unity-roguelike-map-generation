@@ -3,5 +3,5 @@
  
  A map is generated based on the amount of door count chosen.
 
-![alt text](https://github.com/Antis159/Unity-roguelike-map-generation/blob/master/Roguelike/Images/Untitled.png)/n
+![alt text](https://github.com/Antis159/Unity-roguelike-map-generation/blob/master/Roguelike/Images/Untitled.png)                                                                                         
 ![alt text](https://github.com/Antis159/Unity-roguelike-map-generation/blob/master/Roguelike/Images/Untitled1.png)
