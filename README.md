@@ -1,4 +1,3 @@
-# Unity - roguelike map generation
 # Roguelike map generator - Procedural environment and minimap system
  
  A map is generated based on the amount of door count chosen.
