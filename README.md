@@ -10,5 +10,5 @@ Each room is a different prefab and placed, rotated acordingly.
 The character can move and press E when close to a door to go to the next one.
 ![alt text](https://github.com/Antis159/Unity-roguelike-map-generation/blob/master/Roguelike/Images/Untitled3.png)  
 
-The minimap is a different camera that only renders sprites. The character and each room have a sprite which is only rendered by the minimap camera.
+The minimap is a different camera that only renders sprites. The character and each room have a sprite which is only rendered by the minimap camera.                                                                                                                                           
 ![alt text](https://github.com/Antis159/Unity-roguelike-map-generation/blob/master/Roguelike/Images/Untitled4.png)                                           
